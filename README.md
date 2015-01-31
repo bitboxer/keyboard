@@ -9,3 +9,6 @@ Maybe it is helpful to you.
 * [WASD V2 88-Key ISO Custom Layout](v1-layout.svg)
 * [My settings](private.xml) for [Karabiner](https://pqrs.org/osx/karabiner/)
 
+This is how my layout currenlty looks like:
+
+![My layout](v1-layout.png)
