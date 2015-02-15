@@ -27,7 +27,7 @@
 
 	<item>
 		<name>Swap ^ and &gt; on a WASD 88 key Keyboard</name>
-		<appendix>Sadly</appendix>
+		<appendix>Sadly the wasd keyboard sends the wrong keycodes for the &gt; and the ^ key. This setting swaps them to their correct places.</appendix>
 		<device_only>DeviceVendor::WASD, DeviceProduct::WASD_88_KEYS</device_only>
 
 		<identifier>private.swap_danish_and_backquote</identifier>
