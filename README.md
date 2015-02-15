@@ -4,8 +4,9 @@ In here I will collect everything I need to modify
 my keyboard to my needs.
 
 My keyboard is inspired by the article [A modern space cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
-by Steve Losh. I used a german keyboard layout as a start, but modified
-it a bit.
+by Steve Losh. Caps Lock is mapped to Esc when pressing it shortly, and CTRL if pressed longer.
+
+I used a german keyboard layout as a start, but modified it a bit.
 
 * [de-coding keyboard layout](https://github.com/bitboxer/de-coding.keylayout)
 * [Photos of the keyboard](https://www.flickr.com/photos/wannawork/sets/72157650417820400)
