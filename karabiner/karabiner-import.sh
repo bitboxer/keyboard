@@ -10,6 +10,8 @@ $cli set remap.controlL2controlL_escape 1
 /bin/echo -n .
 $cli set space_cadet.left_control_to_hyper 1
 /bin/echo -n .
+$cli set private.swap_danish_and_backquote 1
+/bin/echo -n .
 $cli set remap.switch_profile_fn1_fn4 1
 /bin/echo -n .
 /bin/echo
