@@ -8,6 +8,7 @@ by Steve Losh. I used a german keyboard layout as a start, but modified
 it a bit.
 
 * [de-coding keyboard layout](https://github.com/bitboxer/de-coding.keylayout)
+* [Photos of the keyboard](https://www.flickr.com/photos/wannawork/sets/72157650417820400)
 * [WASD V2 88-Key ISO Custom Layout](v1-layout.svg)
 * [My settings](karabiner/) for [Karabiner](https://pqrs.org/osx/karabiner/)
 
