@@ -9,6 +9,7 @@ by Steve Losh. Caps Lock is mapped to Esc when pressing it shortly, and CTRL if 
 I used a german keyboard layout as a start, but modified it a bit.
 
 * [First blogpost about the keyboard](http://bitboxer.de/2015/02/15/keyboard/)
+* [A few hints about my keyboard setup](https://bitboxer.de/2015/02/21/shortcutting/)
 * [de-coding keyboard layout](https://github.com/bitboxer/de-coding.keylayout)
 * [Photos of the keyboard](https://www.flickr.com/photos/wannawork/sets/72157650417820400)
 * [WASD V2 88-Key ISO Custom Layout](v1-layout.svg)
