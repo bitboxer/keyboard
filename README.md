@@ -12,6 +12,7 @@ I used a german keyboard layout as a start, but modified it a bit.
 * [A few hints about my keyboard setup](https://bitboxer.de/2015/02/21/shortcutting/)
 * [de-coding keyboard layout](https://github.com/bitboxer/de-coding.keylayout)
 * [Photos of the keyboard](https://www.flickr.com/photos/wannawork/sets/72157650417820400)
+* [The keyboard in the wasd shop](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-88-key-iso-custom-mechanical-keyboard.html)
 * [WASD V2 88-Key ISO Custom Layout](v1-layout.svg)
 * [My settings](karabiner/) for [Karabiner](https://pqrs.org/osx/karabiner/)
 
