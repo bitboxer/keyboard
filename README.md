@@ -21,6 +21,6 @@ I used a german keyboard layout as a start, but modified it a bit.
 
 This is how my layout currently looks like:
 
-![My layout](v1-layout.png)
+![My layout](layout/v1-layout.png)
 
 Maybe this can inspire you to create your own layout.
