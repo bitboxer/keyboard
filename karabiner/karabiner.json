@@ -1,1 +1,15 @@
-{ "profiles": [ { "name": "Default profile", "selected": true, "simple_modifications": { "caps_lock": "left_control", "left_control": "hyper" }, "standalone_keys": { "left_control": "escape" } } ] }
+{
+   "profiles" : [
+      {
+         "standalone_keys" : {
+            "left_control" : "escape"
+         },
+         "name" : "Default profile",
+         "simple_modifications" : {
+            "left_control" : "hyper",
+            "caps_lock" : "left_control"
+         },
+         "selected" : true
+      }
+   ]
+}
